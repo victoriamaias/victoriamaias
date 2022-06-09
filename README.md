@@ -1,0 +1,3 @@
+- Hi, I’m @victoriamaias, an interior designer interested in front-end web development.
+- I'm a very curious person and I'm looking for knowledge of projects in the area.
+- Feel free to send me a message.
